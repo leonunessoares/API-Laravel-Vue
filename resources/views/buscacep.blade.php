@@ -4,7 +4,7 @@
 
     
 <head>
-<h1>Retorno da API em formato JSON</h1>
+<h1>Retorno da API em formato JSON com exemplo simples de VUE</h1>
 
 <h2>Cep Informado: {{ $apiarray ['cep']}}</h2>
 <br>
